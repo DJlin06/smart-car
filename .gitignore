@@ -1,0 +1,45 @@
+# AURIX Development Studio / Eclipse build outputs
+Debug/
+Release/
+bin/
+obj/
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.mdf
+*.srec
+*.lst
+*.abs
+*.opt
+
+# ADS / Eclipse local metadata (keep .project / .cproject / .settings)
+.ads/
+*.launch
+
+# Visual Studio / Windows junk
+.vs/
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.db
+*.opendb
+Thumbs.db
+Desktop.ini
+
+# macOS / editor temp
+.DS_Store
+*~
+*.swp
+*.tmp
+*.bak
+*.orig
+
+# Archives / logs
+*.zip
+*.tar
+*.tar.gz
+*.log
